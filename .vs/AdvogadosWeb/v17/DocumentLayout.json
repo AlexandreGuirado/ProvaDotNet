@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\controllers\\advogadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|c:\\users\\dj_al\\source\\repos\\advogadosweb\\advogadosweb\\controllers\\advogadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\controllers\\advogadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\scripts\\app\\advogado\\advogado.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|c:\\users\\dj_al\\source\\repos\\advogadosweb\\advogadosweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|c:\\users\\dj_al\\source\\repos\\advogadosweb\\advogadosweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\repositorio\\implementacao\\advogadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|c:\\users\\dj_al\\source\\repos\\advogadosweb\\advogadosweb\\views\\advogado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\views\\advogado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\views\\advogado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "AdvogadosWeb\\Controllers\\AdvogadoController.cs",
               "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Controllers\\AdvogadoController.cs",
               "RelativeToolTip": "AdvogadosWeb\\Controllers\\AdvogadoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T23:02:26.333Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Scripts\\app\\Advogado\\advogado.js",
               "ViewState": "AgIAAFAAAAAAAAAAAAAuwGIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-16T22:45:56.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:45:56.993Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "AdvogadosWeb\\App_Start\\BundleConfig.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA/wBIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T00:04:21.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T00:04:21.229Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Web.Release.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-17T00:04:38.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T00:04:38.408Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Repositorio\\Interface\\IAdvogadoRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T22:09:23.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:09:23.145Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Repositorio\\Implementacao\\AdvogadoRepositorio.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAswDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T22:09:38.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:09:38.617Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Index.cshtml",
               "ViewState": "AgIAADcAAAAAAAAAAAAkwEcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T22:11:24.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:11:24.848Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T22:13:07.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:13:07.856Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Edit.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAIBZwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T22:14:16.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:14:16.922Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Delete.cshtml",
               "ViewState": "AgIAAEwAAAAAAAAAAAAUwGEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T22:14:41.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:14:41.818Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "AdvogadosWeb\\Content\\Site.css",
               "ViewState": "AgIAAAkBAAAAAAAAAAAYwBwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-16T22:25:12.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:25:12.997Z"
             }
           ]
         }

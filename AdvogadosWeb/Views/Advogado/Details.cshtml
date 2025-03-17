@@ -1,0 +1,83 @@
+﻿@model AdvogadosWeb.Models.Dominio.Advogado
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes do Usuário</h2>
+
+<div class="conteudo-quadrado">
+    <h4>Advogado</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Senioridade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Senioridade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Logradouro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Logradouro)
+            </dt>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bairro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bairro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CEP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CEP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Complemento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Complemento)
+        </dd>
+
+        <p>
+            @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, new { @class = "link-acao link-editar" }) |
+            @Html.ActionLink("Voltar a Lista", "Index", null, new { @class = "back-to-list" })
+        </p>
+
+    </dl>
+</div>

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\controllers\\advogadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\controllers\\advogadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\scripts\\app\\advogado\\advogado.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\scripts\\app\\advogado\\advogado.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|c:\\users\\dj_al\\source\\repos\\advogadosweb\\advogadosweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|c:\\users\\dj_al\\source\\repos\\advogadosweb\\advogadosweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\repositorio\\interface\\iadvogadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\repositorio\\interface\\iadvogadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\repositorio\\implementacao\\advogadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\repositorio\\implementacao\\advogadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|c:\\users\\dj_al\\source\\repos\\advogadosweb\\advogadosweb\\views\\advogado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\views\\advogado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\views\\advogado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\views\\advogado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\views\\advogado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\views\\advogado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\advogadosweb\\views\\advogado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED0E640-81C9-4042-952F-7AC981A1A3DC}|AdvogadosWeb\\AdvogadosWeb.csproj|solutionrelative:advogadosweb\\views\\advogado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvogadoController.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Controllers\\AdvogadoController.cs",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Controllers\\AdvogadoController.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Controllers\\AdvogadoController.cs",
+              "RelativeToolTip": "AdvogadosWeb\\Controllers\\AdvogadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:02:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "advogado.js",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Scripts\\app\\Advogado\\advogado.js",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Scripts\\app\\Advogado\\advogado.js",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Scripts\\app\\Advogado\\advogado.js",
+              "RelativeToolTip": "AdvogadosWeb\\Scripts\\app\\Advogado\\advogado.js",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwGIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-16T22:45:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "AdvogadosWeb\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA/wBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:04:21.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Web.Release.config",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Web.Release.config",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Web.Release.config",
+              "RelativeToolTip": "AdvogadosWeb\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-17T00:04:38.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAdvogadoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Repositorio\\Interface\\IAdvogadoRepositorio.cs",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Repositorio\\Interface\\IAdvogadoRepositorio.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Repositorio\\Interface\\IAdvogadoRepositorio.cs",
+              "RelativeToolTip": "AdvogadosWeb\\Repositorio\\Interface\\IAdvogadoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:09:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdvogadoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Repositorio\\Implementacao\\AdvogadoRepositorio.cs",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Repositorio\\Implementacao\\AdvogadoRepositorio.cs",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Repositorio\\Implementacao\\AdvogadoRepositorio.cs",
+              "RelativeToolTip": "AdvogadosWeb\\Repositorio\\Implementacao\\AdvogadoRepositorio.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:09:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Views\\Advogado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Index.cshtml",
+              "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Index.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T22:11:24.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Create.cshtml",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Views\\Advogado\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Create.cshtml",
+              "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T22:13:07.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Views\\Advogado\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Edit.cshtml",
+              "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Edit.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBZwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T22:14:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Views\\Advogado\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Views\\Advogado\\Delete.cshtml",
+              "RelativeToolTip": "AdvogadosWeb\\Views\\Advogado\\Delete.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T22:14:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Content\\Site.css",
+              "RelativeDocumentMoniker": "AdvogadosWeb\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\dj_al\\source\\repos\\AdvogadosWeb\\AdvogadosWeb\\Content\\Site.css",
+              "RelativeToolTip": "AdvogadosWeb\\Content\\Site.css",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAYwBwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T22:25:12.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

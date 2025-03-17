@@ -1,0 +1,285 @@
+﻿/* Reset de Estilos Padrão (Opcional - Pode já estar no Bootstrap) */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Remover a barra superior (navbar) */
+.navbar {
+    display: none;
+}
+
+/* Remover o rodapé */
+footer {
+    display: none;
+}
+
+/* Estilos gerais para o body-content */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Estilos para o formulário */
+.form-horizontal {
+    max-width: 700px; /* Aumentei a largura máxima */
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+    .form-horizontal .form-group {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+/* Estilos para os labels */
+.control-label {
+    font-weight: bold;
+    text-align: left;
+    width: 200px; /* Largura fixa para os labels */
+    display: inline-block; /* Para alinhar com os inputs */
+    padding-right: 10px; /* Espaço entre label e input */
+}
+
+/* Estilos para os campos de entrada (input, select) */
+.form-control {
+    margin-bottom: 10px;
+    width: calc(100% - 210px); /* Largura do input ajustada */
+    display: inline-block;
+    box-sizing: border-box; /* Para que padding não aumente a largura */
+}
+
+/* Estilos para o botão "Create" e "Save" */
+.btn-default {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .btn-default:hover {
+        background-color: #0056b3;
+    }
+
+/* Estilos para as mensagens de validação */
+.text-danger {
+    color: red;
+}
+
+/* Estilos para o link "Voltar à Lista" */
+.back-to-list {
+    display: inline-block;
+    padding: 8px 16px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #f0f0f0;
+    color: #333;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+    .back-to-list:hover {
+        background-color: #ddd;
+    }
+
+/* Estilos para a tabela de listagem de advogados */
+.table {
+    width: 100%;
+    border-collapse: collapse; /* Para que as bordas da tabela não fiquem duplicadas */
+}
+
+    .table th, .table td {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        padding: 8px;
+        vertical-align: middle;
+        border: 1px solid #ddd; /* Adicionei bordas para melhor visualização */
+    }
+
+    .table th {
+        background-color: #f0f0f0; /* Cor de fundo para o cabeçalho */
+        font-weight: bold;
+        text-align: left; /* Alinhar texto do cabeçalho à esquerda */
+    }
+
+        .table th:nth-child(1), /* Nome do Advogado */
+        .table td:nth-child(1) {
+            width: 250px;
+        }
+
+        .table th:nth-child(2), /* Senioridade */
+        .table td:nth-child(2) {
+            width: 100px;
+        }
+
+        .table th:nth-child(3), /* Logradouro */
+        .table td:nth-child(3) {
+            width: 200px;
+        }
+
+        .table th:nth-child(4), /* Bairro */
+        .table td:nth-child(4) {
+            width: 200px;
+        }
+
+        .table th:nth-child(5), /* Estado */
+        .table td:nth-child(5) {
+            width: 80px;
+        }
+
+        .table th:nth-child(6), /* CEP */
+        .table td:nth-child(6) {
+            width: 120px;
+        }
+
+        .table th:nth-child(7), /* Numero */
+        .table td:nth-child(7) {
+            width: 80px;
+        }
+
+        .table th:nth-child(8), /* Complemento */
+        .table td:nth-child(8) {
+            width: 150px;
+        }
+
+        .table th:nth-child(9), /* Ações (Editar, Detalhes, Deletar) */
+        .table td:nth-child(9) {
+            width: 180px;
+        }
+
+/* Estilos para a descrição horizontal (Details) */
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Estilos para elementos input, select, textarea */
+input,
+select,
+textarea {
+    max-width: none; /* Removido o max-width */
+}
+
+
+/* Ajustar o espaçamento para a mensagem de validação do CEP */
+.form-horizontal .text-danger {
+    margin-top: 5px; /* Adicionar espaço acima da mensagem */
+    display: block; /* Garantir que a mensagem ocupe a largura total */
+    clear: both; /* Limpar qualquer float */
+}
+
+/* Ajustar o posicionamento da máscara do CEP (se necessário) */
+/* Se a máscara estiver sendo exibida diretamente no HTML, ajuste o espaçamento */
+.cep-mask {
+    font-size: 0.8em; /* Tamanho da fonte menor */
+    color: #888; /* Cor mais suave */
+    margin-top: 2px; /* Espaçamento acima da máscara */
+    display: block; /* Exibir como bloco */
+}
+
+/* Estilos para a mensagem de erro flutuante */
+.mensagem-flutuante {
+    position: fixed; /* Posição fixa na tela */
+    top: 20px; /* Posição inicial no topo */
+    right: 20px; /* Lado direito da tela */
+    background-color: #f8d7da; /* Cor de fundo vermelha clara */
+    color: #721c24; /* Cor do texto vermelha escura */
+    border: 1px solid #f5c6cb; /* Borda */
+    padding: 10px 20px; /* Padding interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    z-index: 1000; /* Garantir que a mensagem fique acima de outros elementos */
+    opacity: 0; /* Inicialmente invisível */
+    transform: translateY(-100%); /* Inicialmente fora da tela */
+    transition: transform 0.5s, opacity 0.5s; /* Transição suave */
+    max-width: 400px; /* Largura máxima da mensagem */
+}
+
+    .mensagem-flutuante.visivel {
+        opacity: 1;
+        transform: translateY(0); /* Mostrar a mensagem */
+    }
+
+    /* Estilos para a imagem de erro na mensagem flutuante */
+    .mensagem-flutuante img {
+        width: 20px; /* Ajustar o tamanho da imagem */
+        margin-right: 5px; /* Adicionar espaço entre a imagem e a mensagem */
+        vertical-align: middle; /* Alinhar verticalmente com o texto */
+    }
+
+/* Estilos para a mensagem de sucesso flutuante */
+.alert-success.mensagem-flutuante {
+    background-color: #d4edda; /* Cor de fundo verde clara */
+    color: #155724; /* Cor do texto verde escura */
+    border: 1px solid #c3e6cb; /* Borda */
+}
+
+/* Estilos para o link "Criar Novo Usuário" */
+.criar-novo-usuario {
+    display: inline-block; /* Para que ele se comporte como um elemento de bloco */
+    padding: 8px 16px; /* Padding interno */
+    margin-top: 15px; /* Espaçamento acima do botão */
+    margin-bottom: 15px; /* Espaçamento abaixo do botão */
+    background-color: #f0f0f0; /* Cor de fundo */
+    color: #333; /* Cor do texto */
+    text-decoration: none; /* Remover sublinhado */
+    border: 1px solid #ccc; /* Borda */
+    border-radius: 4px; /* Bordas arredondadas */
+    transition: background-color 0.3s; /* Transição suave para o hover */
+    font-weight: bold; /* Texto em negrito */
+}
+
+    .criar-novo-usuario:hover {
+        background-color: #ddd; /* Cor de fundo no hover */
+    }
+
+    /* Adicionar o ícone de "+" */
+    .criar-novo-usuario::before {
+        content: "+ "; /* Adicionar o símbolo de "+" */
+        margin-right: 5px; /* Espaçamento entre o símbolo e o texto */
+    }
+
+/* Estilos para os links "Editar", "Detalhes" e "Deletar" */
+.link-acao {
+    display: inline-block; /* Para que eles se comportem como elementos de bloco */
+    padding: 5px 10px; /* Padding interno */
+    margin-right: 5px; /* Espaçamento entre os links */
+    text-decoration: none; /* Remover sublinhado */
+    border-radius: 4px; /* Bordas arredondadas */
+    color: white; /* Cor do texto */
+    font-size: 0.9em; /* Tamanho da fonte */
+}
+
+/* Estilos específicos para cada ação */
+.link-editar {
+    background-color: #f39c12; /* Laranja */
+}
+
+.link-detalhes {
+    background-color: #3498db; /* Azul */
+}
+
+.link-deletar {
+    background-color: #e74c3c; /* Vermelho */
+}
+
+.link-acao:hover {
+    opacity: 0.8; /* Efeito de opacidade no hover */
+}
+
+.conteudo-quadrado {
+    max-width: 700px; /* Ajustar a largura máxima */
+    margin: 20px auto; /* Centralizar o conteúdo */
+    padding: 20px; /* Espaçamento interno */
+    border: 1px solid #ddd; /* Borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    background-color: #f9f9f9; /* Fundo levemente acinzentado */
+}

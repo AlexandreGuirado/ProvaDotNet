@@ -24,23 +24,6 @@ O AdvogadosWeb é um sistema de gerenciamento de advogados desenvolvido em ASP.N
 *   **Git:** Sistema de controle de versão.
 *   **Visual Studio:** IDE (Integrated Development Environment) para desenvolvimento.
 
-## Imagens do Projeto
-
-*   **Página Inicial:**
-    ![image](https://github.com/user-attachments/assets/196e4f46-80c9-4e57-a280-7d608bfe2c74)
-
-*   **Cadastro de Advogado:**
-    ![image](https://github.com/user-attachments/assets/8a3f4bac-d04a-4570-aa37-eeb16a771232)
-
-    *   **Edição de Advogado:**
-    ![image](https://github.com/user-attachments/assets/2d825832-b10b-4524-b2ed-0cd94a1bad05)
-
-*   **Detalhes do Advogado:**
-    ![image](https://github.com/user-attachments/assets/b8cdbfa0-8cce-4d93-b53b-9e3c3b7c9781)
-
-    *   **Confirmação de Exclusão:**
-    ![image](https://github.com/user-attachments/assets/fd771c0e-7688-4cea-87bd-cb8cee41108b)
-
 ## Configuração
 
 Para executar o projeto, siga as instruções abaixo:
@@ -75,3 +58,21 @@ Para executar o projeto, siga as instruções abaixo:
 2.  **Executar o Projeto:**
     *   Pressione `Ctrl+F5` ou clique em "Debug" -> "Start Without Debugging" para executar o projeto.
     *   O Visual Studio iniciará o IIS Express (o servidor de desenvolvimento) e abrirá o projeto no seu navegador padrão.
+
+
+## Imagens do Projeto
+
+*   **Página Inicial:**
+    ![image](https://github.com/user-attachments/assets/196e4f46-80c9-4e57-a280-7d608bfe2c74)
+
+*   **Cadastro de Advogado:**
+    ![image](https://github.com/user-attachments/assets/8a3f4bac-d04a-4570-aa37-eeb16a771232)
+
+    *   **Edição de Advogado:**
+    ![image](https://github.com/user-attachments/assets/2d825832-b10b-4524-b2ed-0cd94a1bad05)
+
+*   **Detalhes do Advogado:**
+    ![image](https://github.com/user-attachments/assets/b8cdbfa0-8cce-4d93-b53b-9e3c3b7c9781)
+
+    *   **Confirmação de Exclusão:**
+    ![image](https://github.com/user-attachments/assets/fd771c0e-7688-4cea-87bd-cb8cee41108b)

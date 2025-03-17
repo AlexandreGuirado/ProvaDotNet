@@ -1,6 +1,6 @@
 ## Descrição
 
-O AdvogadosWeb é um sistema de gerenciamento de advogados desenvolvido em ASP.NET MVC 5 com o objetivo de facilitar o cadastro, edição, visualização e exclusão de informações sobre advogados. O sistema segue a arquitetura MVC, promovendo a separação de responsabilidades e a organização do código.
+O AdvogadosWeb é um sistema de gerenciamento de advogados desenvolvido em ASP.NET MVC 5, o objetivo desse sistema foi com para realizar um teste de processo seletivo. Espero que gostem do resultado, e os demais que visualizarem, que possa contribuir de alguma forma o conteúdo desse sistema!
 
 ## Funcionalidades
 
@@ -39,4 +39,39 @@ O AdvogadosWeb é um sistema de gerenciamento de advogados desenvolvido em ASP.N
     ![Detalhes do Advogado]![image](https://github.com/user-attachments/assets/b8cdbfa0-8cce-4d93-b53b-9e3c3b7c9781)
 
     *   **Confirmação de Exclusão:**
-    ![Confirmação de Exclusão](link-para-sua-imagem-exclusao)
+    ![Confirmação de Exclusão]![image](https://github.com/user-attachments/assets/fd771c0e-7688-4cea-87bd-cb8cee41108b)
+
+## Configuração
+
+Para executar o projeto, siga as instruções abaixo:
+
+1.  **Pré-requisitos:**
+    *   Visual Studio (versão 2017 ou superior).
+    *   .NET Framework 4.6.1 ou superior.
+    *   Git.
+
+2.  **Clonar o Repositório:**
+    ```bash
+    https://github.com/AlexandreGuirado/ProvaDotNet.git
+    ```
+
+3.  **Abrir a Solução no Visual Studio:**
+    *   Abra o Visual Studio.
+    *   Clique em "File" -> "Open" -> "Project/Solution".
+    *   Navegue até a pasta onde você clonou o repositório e selecione o arquivo `AdvogadosWeb.sln`.
+
+4.  **Restaurar Pacotes NuGet:**
+    *   No Solution Explorer, clique com o botão direito no nome da solução e selecione "Restore NuGet Packages".
+
+5.  **Recompilar a Solução:**
+    *   Clique em "Build" -> "Rebuild Solution".
+    *   Verifique se não há erros na compilação.
+
+## Execução
+
+1.  **Definir como Projeto de Inicialização:**
+    *   No Solution Explorer, clique com o botão direito no projeto `AdvogadosWeb` e selecione "Set as Startup Project".
+
+2.  **Executar o Projeto:**
+    *   Pressione `Ctrl+F5` ou clique em "Debug" -> "Start Without Debugging" para executar o projeto.
+    *   O Visual Studio iniciará o IIS Express (o servidor de desenvolvimento) e abrirá o projeto no seu navegador padrão.

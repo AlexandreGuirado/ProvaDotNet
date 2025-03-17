@@ -27,16 +27,16 @@ O AdvogadosWeb é um sistema de gerenciamento de advogados desenvolvido em ASP.N
 ## Imagens do Projeto
 
 *   **Página Inicial:**
-    ![Página Inicial](![image](https://github.com/user-attachments/assets/196e4f46-80c9-4e57-a280-7d608bfe2c74))
+    ![Página Inicial]![image](https://github.com/user-attachments/assets/196e4f46-80c9-4e57-a280-7d608bfe2c74)
 
 *   **Cadastro de Advogado:**
-    ![Cadastro de Advogado](![image](https://github.com/user-attachments/assets/8a3f4bac-d04a-4570-aa37-eeb16a771232))
+    ![Cadastro de Advogado]![image](https://github.com/user-attachments/assets/8a3f4bac-d04a-4570-aa37-eeb16a771232)
 
     *   **Edição de Advogado:**
-    ![Edição de Advogado](![image](https://github.com/user-attachments/assets/2d825832-b10b-4524-b2ed-0cd94a1bad05))
+    ![Edição de Advogado]![image](https://github.com/user-attachments/assets/2d825832-b10b-4524-b2ed-0cd94a1bad05)
 
 *   **Detalhes do Advogado:**
-    ![Detalhes do Advogado](![image](https://github.com/user-attachments/assets/b8cdbfa0-8cce-4d93-b53b-9e3c3b7c9781))
+    ![Detalhes do Advogado]![image](https://github.com/user-attachments/assets/b8cdbfa0-8cce-4d93-b53b-9e3c3b7c9781)
 
     *   **Confirmação de Exclusão:**
     ![Confirmação de Exclusão](link-para-sua-imagem-exclusao)
